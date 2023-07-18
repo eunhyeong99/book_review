@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "885421493417",
+    "project_id": "book-review-45a2c",
+    "storage_bucket": "book-review-45a2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885421493417:android:79cb6767e7e50547302db8",
+        "android_client_info": {
+          "package_name": "com.example.book_review"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885421493417-1ogofo9ftt516laq36ns58cp8rqp4dk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF0Eg2VOS5UUWO2kecNkbMdPXrATn_IYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885421493417-1ogofo9ftt516laq36ns58cp8rqp4dk9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "885421493417-18n07g6ps7kqotai44q4hu3ls5oevgfh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bookreview.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885421493417:android:b345de44c21b8ea3302db8",
+        "android_client_info": {
+          "package_name": "com.example.bookreview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885421493417-1ogofo9ftt516laq36ns58cp8rqp4dk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF0Eg2VOS5UUWO2kecNkbMdPXrATn_IYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885421493417-1ogofo9ftt516laq36ns58cp8rqp4dk9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "885421493417-18n07g6ps7kqotai44q4hu3ls5oevgfh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bookreview.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
